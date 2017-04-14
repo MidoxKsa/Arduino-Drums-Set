@@ -8,14 +8,14 @@ In simple terms, the player hits the drum pads that have piezo transducers on th
 
 Parts list:
 
-4x Piezo
-Arduino Uno
-4x “drums”
-4x Plexiglass cut outs 
-Enough material to cover  4 circular plexiglass cut outs from both sides
-Breadboard
-Wires
-Soldering Equipment
-4x Resistors
-4x LEDs
-Duct tape
+<br>4x Piezo</br>
+Arduino Uno</br>
+4x drums</br>
+4x Plexiglass cut outs </br>
+Enough material to cover  4 circular plexiglass cut outs from both sides</br>
+Breadboard</br>
+Wires</br>
+Soldering Equipment</br>
+4x Resistors</br>
+4x LEDs</br>
+Duct tape</br>
