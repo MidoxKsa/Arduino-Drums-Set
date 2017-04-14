@@ -10,7 +10,7 @@ Parts list:
 
 <br>4x Piezo</br>
 Arduino Uno</br>
-4x drums</br>
+4x "drums"</br>
 4x Plexiglass cut outs </br>
 Enough material to cover  4 circular plexiglass cut outs from both sides</br>
 Breadboard</br>
